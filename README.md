@@ -22,6 +22,8 @@
 
 ## Vue
 
+*   [Bear-biscuit/music\_web](https://github.com/Bear-biscuit/music_web) -
+
 *   [Tsuk1ko/bilibili-live-chat](https://github.com/Tsuk1ko/bilibili-live-chat) - 📽️ 在线即食的仿 YouTube Live Chat 风格的简易 Bilibili 弹幕姬
 
 *   [weijordanNW/music-player](https://github.com/weijordanNW/music-player) -
