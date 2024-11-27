@@ -10,37 +10,36 @@
 
 ## Table of Contents
 
-*   [Vue](#vue)
-*   [Java](#java)
+*   [Python](#python)
 *   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
+*   [Stylus](#stylus)
+*   [Vue](#vue)
+*   [Java](#java)
 *   [miscellaneous](#miscellaneous)
 *   [HTML](#html)
 *   [CSS](#css)
-*   [Python](#python)
 *   [Dart](#dart)
 
-## Vue
+## Python
 
-*   [Bear-biscuit/music\_web](https://github.com/Bear-biscuit/music_web) -
+*   [jackhawks/rectg](https://github.com/jackhawks/rectg) - 本项目汇集5000+优质的Telegram群组、频道和机器人，为您提供高质量的学习和技术资源。内容涵盖热门群组、实用频道和各类机器人，助您快速找到感兴趣的资源，轻松提升技能。欢迎加入，一起探索丰富的Telegram资源库！
 
-*   [Tsuk1ko/bilibili-live-chat](https://github.com/Tsuk1ko/bilibili-live-chat) - 📽️ 在线即食的仿 YouTube Live Chat 风格的简易 Bilibili 弹幕姬
+*   [EXP-Tools/steam-discount](https://github.com/EXP-Tools/steam-discount) - steam 特惠游戏榜单（自动刷新）
 
-*   [weijordanNW/music-player](https://github.com/weijordanNW/music-player) -
+*   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
 
-*   [weijordanNW/oragekk.github.io-main](https://github.com/weijordanNW/oragekk.github.io-main) -
+*   [Batman0506/wx-wchaty-robot](https://github.com/Batman0506/wx-wchaty-robot) - 一个可以转发消息的微信机器人，可以自定义转发的群，也可以二开做关键字校验，node.js服务
 
-*   [weijordanNW/blog\_plus](https://github.com/weijordanNW/blog_plus) -
+*   [dreammis/social-auto-upload](https://github.com/dreammis/social-auto-upload) - 自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili
 
-*   [OrageKK/oragekk.github.io](https://github.com/OrageKK/oragekk.github.io) - vuepress2.x + vuepress-theme-hope blog source
+*   [weijordanNW/webssh](https://github.com/weijordanNW/webssh) -
 
-## Java
-
-*   [Hello-hao/Tbed](https://github.com/Hello-hao/Tbed) - Hellohao图床 | 图像托管 | 云相册，分享/水印、存储源分发、图像管理、前后端分离。
-
-*   [april-projects/april-wallpaper](https://github.com/april-projects/april-wallpaper) - 一个每日自动拉取壁纸写入readme文件的程序，新增壁纸 API
+*   [weijordanNW/yuque-md-img-handle-master](https://github.com/weijordanNW/yuque-md-img-handle-master) -
 
 ## TypeScript
+
+*   [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
 
 *   [Kuingsmile/PicList](https://github.com/Kuingsmile/PicList) - An image upload and manage tool, base on PicGo
 
@@ -64,6 +63,8 @@
 
 ## JavaScript
 
+*   [yelog/hexo-theme-3-hexo](https://github.com/yelog/hexo-theme-3-hexo) - hexo主题：三段式设计、极简、方便  Hexo theme: three-stage design
+
 *   [panghujiajia/todayhub-web](https://github.com/panghujiajia/todayhub-web) - react+tailwindcss实现的今日热榜
 
 *   [JimHans/live2d-kanban-desktop](https://github.com/JimHans/live2d-kanban-desktop) - 基于Electron制作的桌面看板娘，支持日程提醒、小窗模式、ChatGPT集成、网页搜索、本地moc模型加载与独立设置界面等  | An AI Based live2d Kanban for Desktop Users Using Electron
@@ -85,6 +86,30 @@
 *   [weijordanNW/blog\_comment](https://github.com/weijordanNW/blog_comment) -
 
 *   [weijordanNW/blog\_plus\_comment](https://github.com/weijordanNW/blog_plus_comment) -
+
+## Stylus
+
+*   [amehime/hexo-theme-shoka](https://github.com/amehime/hexo-theme-shoka) - Just For https://shoka.lostyu.me/
+
+## Vue
+
+*   [Bear-biscuit/music\_web](https://github.com/Bear-biscuit/music_web) -
+
+*   [Tsuk1ko/bilibili-live-chat](https://github.com/Tsuk1ko/bilibili-live-chat) - 📽️ 在线即食的仿 YouTube Live Chat 风格的简易 Bilibili 弹幕姬
+
+*   [weijordanNW/music-player](https://github.com/weijordanNW/music-player) -
+
+*   [weijordanNW/oragekk.github.io-main](https://github.com/weijordanNW/oragekk.github.io-main) -
+
+*   [weijordanNW/blog\_plus](https://github.com/weijordanNW/blog_plus) -
+
+*   [OrageKK/oragekk.github.io](https://github.com/OrageKK/oragekk.github.io) - vuepress2.x + vuepress-theme-hope blog source
+
+## Java
+
+*   [Hello-hao/Tbed](https://github.com/Hello-hao/Tbed) - Hellohao图床 | 图像托管 | 云相册，分享/水印、存储源分发、图像管理、前后端分离。
+
+*   [april-projects/april-wallpaper](https://github.com/april-projects/april-wallpaper) - 一个每日自动拉取壁纸写入readme文件的程序，新增壁纸 API
 
 ## miscellaneous
 
@@ -135,20 +160,6 @@
 *   [kasuie/alist-customize](https://github.com/kasuie/alist-customize) - alist style 样式上的一些调整美化，如恰巧你也喜欢那便是极好的了~   alist style adjustments and beautifications. If by chance you also like them, that would be great~
 
 *   [Kaiyuan/sponsor-page](https://github.com/Kaiyuan/sponsor-page) -
-
-## Python
-
-*   [EXP-Tools/steam-discount](https://github.com/EXP-Tools/steam-discount) - steam 特惠游戏榜单（自动刷新）
-
-*   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
-
-*   [Batman0506/wx-wchaty-robot](https://github.com/Batman0506/wx-wchaty-robot) - 一个可以转发消息的微信机器人，可以自定义转发的群，也可以二开做关键字校验，node.js服务
-
-*   [dreammis/social-auto-upload](https://github.com/dreammis/social-auto-upload) - 自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili
-
-*   [weijordanNW/webssh](https://github.com/weijordanNW/webssh) -
-
-*   [weijordanNW/yuque-md-img-handle-master](https://github.com/weijordanNW/yuque-md-img-handle-master) -
 
 ## Dart
 
