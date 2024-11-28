@@ -10,16 +10,32 @@
 
 ## Table of Contents
 
+*   [Vue](#vue)
 *   [Python](#python)
 *   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
 *   [Stylus](#stylus)
-*   [Vue](#vue)
 *   [Java](#java)
 *   [miscellaneous](#miscellaneous)
 *   [HTML](#html)
 *   [CSS](#css)
 *   [Dart](#dart)
+
+## Vue
+
+*   [dairoot/ChatGPT-Mirror](https://github.com/dairoot/ChatGPT-Mirror) - 🚀 一键部署个人的 ChatGPT 镜像站
+
+*   [Bear-biscuit/music\_web](https://github.com/Bear-biscuit/music_web) -
+
+*   [Tsuk1ko/bilibili-live-chat](https://github.com/Tsuk1ko/bilibili-live-chat) - 📽️ 在线即食的仿 YouTube Live Chat 风格的简易 Bilibili 弹幕姬
+
+*   [weijordanNW/music-player](https://github.com/weijordanNW/music-player) -
+
+*   [weijordanNW/oragekk.github.io-main](https://github.com/weijordanNW/oragekk.github.io-main) -
+
+*   [weijordanNW/blog\_plus](https://github.com/weijordanNW/blog_plus) -
+
+*   [OrageKK/oragekk.github.io](https://github.com/OrageKK/oragekk.github.io) - vuepress2.x + vuepress-theme-hope blog source
 
 ## Python
 
@@ -90,20 +106,6 @@
 ## Stylus
 
 *   [amehime/hexo-theme-shoka](https://github.com/amehime/hexo-theme-shoka) - Just For https://shoka.lostyu.me/
-
-## Vue
-
-*   [Bear-biscuit/music\_web](https://github.com/Bear-biscuit/music_web) -
-
-*   [Tsuk1ko/bilibili-live-chat](https://github.com/Tsuk1ko/bilibili-live-chat) - 📽️ 在线即食的仿 YouTube Live Chat 风格的简易 Bilibili 弹幕姬
-
-*   [weijordanNW/music-player](https://github.com/weijordanNW/music-player) -
-
-*   [weijordanNW/oragekk.github.io-main](https://github.com/weijordanNW/oragekk.github.io-main) -
-
-*   [weijordanNW/blog\_plus](https://github.com/weijordanNW/blog_plus) -
-
-*   [OrageKK/oragekk.github.io](https://github.com/OrageKK/oragekk.github.io) - vuepress2.x + vuepress-theme-hope blog source
 
 ## Java
 
