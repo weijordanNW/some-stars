@@ -23,6 +23,8 @@
 
 ## JavaScript
 
+*   [elog-x/yuque-hexo](https://github.com/elog-x/yuque-hexo) - 语雀 + Elog + Hexo + GitHub Actions + Vercel 博客解决方案
+
 *   [elog-x/notion-halo](https://github.com/elog-x/notion-halo) - Notion + Elog + Halo + GitHub Actions 博客解决方案
 
 *   [koajs/koa](https://github.com/koajs/koa) - Expressive middleware for node.js using ES2017 async functions
@@ -56,6 +58,10 @@
 *   [weijordanNW/blog\_plus\_comment](https://github.com/weijordanNW/blog_plus_comment) -
 
 ## TypeScript
+
+*   [elog-x/yuque-vitepress](https://github.com/elog-x/yuque-vitepress) - 语雀 + Elog + VitePress + GitHub Actions + Vercel 文档站点解决方案
+
+*   [LetTTGACO/elog](https://github.com/LetTTGACO/elog) - Markdown 批量导出工具、开放式跨平台博客解决方案，随意组合写作平台(语雀/Notion/FlowUs/飞书/我来Wolai)和博客平台(Hexo/Vitepress/Halo/Confluence/WordPress等)
 
 *   [hamster1963/nezha-dash](https://github.com/hamster1963/nezha-dash) - A simple dashboard for nezha.
 
