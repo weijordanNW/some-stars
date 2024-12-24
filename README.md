@@ -10,6 +10,7 @@
 
 ## Table of Contents
 
+*   [Go](#go)
 *   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
 *   [Python](#python)
@@ -20,6 +21,10 @@
 *   [HTML](#html)
 *   [CSS](#css)
 *   [Dart](#dart)
+
+## Go
+
+*   [linux-do/override](https://github.com/linux-do/override) - 啥也不是
 
 ## TypeScript
 
