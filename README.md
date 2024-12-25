@@ -10,8 +10,8 @@
 
 ## Table of Contents
 
-*   [Go](#go)
 *   [TypeScript](#typescript)
+*   [Go](#go)
 *   [JavaScript](#javascript)
 *   [Python](#python)
 *   [Vue](#vue)
@@ -22,11 +22,9 @@
 *   [CSS](#css)
 *   [Dart](#dart)
 
-## Go
-
-*   [linux-do/override](https://github.com/linux-do/override) - 啥也不是
-
 ## TypeScript
+
+*   [dudor/BookmarkHub](https://github.com/dudor/BookmarkHub) - BookmarkHub , sync bookmarks across different browsers
 
 *   [dalefengs/json-tools-next](https://github.com/dalefengs/json-tools-next) - Json 工具箱，主要功能Json 格式化、DIFF等。https://json.kl.do
 
@@ -59,6 +57,10 @@
 *   [weijordanNW/blog](https://github.com/weijordanNW/blog) - 子冥的博客
 
 *   [Mister-Hope/Mister-Hope.github.io](https://github.com/Mister-Hope/Mister-Hope.github.io) - Personal blog build with vuepress-theme-hope
+
+## Go
+
+*   [linux-do/override](https://github.com/linux-do/override) - 啥也不是
 
 ## JavaScript
 
