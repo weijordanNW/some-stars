@@ -40,7 +40,7 @@
 
 *   [Kuingsmile/PicList](https://github.com/Kuingsmile/PicList) - An image upload and manage tool, base on PicGo
 
-*   [leaferjs/leafer-ui](https://github.com/leaferjs/leafer-ui) - 好用的 Canvas 引擎，革新的开发体验，可用于高效绘图 、UI 交互、图形编辑。An easy-to-use Canvas engine.
+*   [leaferjs/leafer-ui](https://github.com/leaferjs/leafer-ui) - 好用的 Canvas 引擎，革新的开发体验，可用于高效绘图 、UI 交互、图形编辑。An Easy-to-Use Canvas Engine.
 
 *   [liwenka1/next-web-nav](https://github.com/liwenka1/next-web-nav) - 一个简单好用的导航网站
 
