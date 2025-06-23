@@ -26,7 +26,7 @@
 
 *   [dudor/BookmarkHub](https://github.com/dudor/BookmarkHub) - BookmarkHub , sync bookmarks across different browsers
 
-*   [fevrax/json-tools-next](https://github.com/fevrax/json-tools-next) - Json 工具箱，主要功能Json 格式化、DIFF等。https://json.kl.do
+*   [fevrax/json-tools](https://github.com/fevrax/json-tools) - Json 工具箱，主要功能Json 格式化、DIFF等。https://json.kl.do
 
 *   [elog-x/yuque-vitepress](https://github.com/elog-x/yuque-vitepress) - 语雀 + Elog + VitePress + GitHub Actions + Vercel 文档站点解决方案
 
