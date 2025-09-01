@@ -15,9 +15,9 @@
 *   [JavaScript](#javascript)
 *   [Python](#python)
 *   [Vue](#vue)
+*   [miscellaneous](#miscellaneous)
 *   [Stylus](#stylus)
 *   [Java](#java)
-*   [miscellaneous](#miscellaneous)
 *   [HTML](#html)
 *   [CSS](#css)
 *   [Dart](#dart)
@@ -104,8 +104,6 @@
 
 *   [wzdnzd/aggregator](https://github.com/wzdnzd/aggregator) - One-stop Proxies Crawling and Aggregation Platform
 
-*   [jackhawks/rectg](https://github.com/jackhawks/rectg) - 从全网搜集超 10000+ 个 Telegram 群组、频道和机器人，并筛选出优质且持续更新的资源，为 数据分析、研究与学习 提供支持。所有数据均来源于互联网，仅用于研究分析，不涉及商业或违法用途，使用者需自行承担风险。
-
 *   [EXP-Tools/steam-discount](https://github.com/EXP-Tools/steam-discount) - steam 特惠游戏榜单（自动刷新）
 
 *   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
@@ -134,17 +132,9 @@
 
 *   [OrageKK/oragekk.github.io](https://github.com/OrageKK/oragekk.github.io) - vuepress2.x + vuepress-theme-hope blog source
 
-## Stylus
-
-*   [amehime/hexo-theme-shoka](https://github.com/amehime/hexo-theme-shoka) - Just For https://shoka.lostyu.me/
-
-## Java
-
-*   [Hello-hao/Tbed](https://github.com/Hello-hao/Tbed) - Hellohao图床 | 图像托管 | 云相册，分享/水印、存储源分发、图像管理、前后端分离。
-
-*   [april-projects/april-wallpaper](https://github.com/april-projects/april-wallpaper) - 一个每日自动拉取壁纸写入readme文件的程序，新增壁纸 API
-
 ## miscellaneous
+
+*   [jackhawks/rectg](https://github.com/jackhawks/rectg) - 从全网搜集超 10000+ 个 Telegram 群组、频道和机器人，并筛选出优质且持续更新的资源，为 数据分析、研究与学习 提供支持。所有数据均来源于互联网，仅用于研究分析，不涉及商业或违法用途，使用者需自行承担风险。
 
 *   [SamToki/Sam-Toki-Mouse-Cursors](https://github.com/SamToki/Sam-Toki-Mouse-Cursors) - 原创极简风格鼠标指针，适用于 Windows 系统。 ／ Original mouse cursors (pointers) for Windows, with minimalistic design.
 
@@ -173,6 +163,16 @@
 *   [weijordanNW/docker\_image\_pusher](https://github.com/weijordanNW/docker_image_pusher) - 使用Github Action将国外的Docker镜像转存到阿里云私有仓库，供国内服务器使用，免费易用
 
 *   [weijordanNW/oragekk.github.io](https://github.com/weijordanNW/oragekk.github.io) - vuepress2.x + vuepress-theme-hope blog source
+
+## Stylus
+
+*   [amehime/hexo-theme-shoka](https://github.com/amehime/hexo-theme-shoka) - Just For https://shoka.lostyu.me/
+
+## Java
+
+*   [Hello-hao/Tbed](https://github.com/Hello-hao/Tbed) - Hellohao图床 | 图像托管 | 云相册，分享/水印、存储源分发、图像管理、前后端分离。
+
+*   [april-projects/april-wallpaper](https://github.com/april-projects/april-wallpaper) - 一个每日自动拉取壁纸写入readme文件的程序，新增壁纸 API
 
 ## HTML
 
