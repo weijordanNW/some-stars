@@ -136,7 +136,7 @@
 
 *   [jackvale/rectg](https://github.com/jackvale/rectg) - 从全网搜集超 10000+ 个 Telegram 群组、频道和机器人，并筛选出优质且持续更新的资源，为 数据分析、研究与学习 提供支持。所有数据均来源于互联网，仅用于研究分析，不涉及商业或违法用途，使用者需自行承担风险。
 
-*   [SamToki/Sam-Toki-Mouse-Cursors](https://github.com/SamToki/Sam-Toki-Mouse-Cursors) - 原创极简风格鼠标指针，适用于 Windows 系统。 ／ Original mouse cursors (pointers) for Windows, with minimalistic design.
+*   [SamToki/Sam-Toki-Mouse-Cursors](https://github.com/SamToki/Sam-Toki-Mouse-Cursors) - 原创极简风格鼠标指针，适用于 Windows 系统。 ／ Original mouse cursors (pointers) for Windows, with minimalistic design. ／ 孤独摇滚 Bocchi the Rock 原神 Genshin 沉默魔女 Silent Witch
 
 *   [gaboolic/vercel-reverse-fast](https://github.com/gaboolic/vercel-reverse-fast) - vercel加速OpenAI/ChatGPT
 
