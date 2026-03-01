@@ -24,6 +24,8 @@
 
 ## JavaScript
 
+*   [1186258278/OpenClawChineseTranslation](https://github.com/1186258278/OpenClawChineseTranslation) - 🦞 OpenClaw (Clawdbot/Moltbot) 汉化版 - 开源个人 AI 助手中文版 | Claude/ChatGPT LLM 接入 | WhatsApp/Telegram/Discord 多平台 | 每小时自动同步 | CLI + Dashboard 全中文 | 全流程搭建教程，以及排错指南！
+
 *   [lili-luo/aicoding-cookbook](https://github.com/lili-luo/aicoding-cookbook) -
 
 *   [elog-x/yuque-hexo](https://github.com/elog-x/yuque-hexo) - 语雀 + Elog + Hexo + GitHub Actions + Vercel 博客解决方案
