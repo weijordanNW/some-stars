@@ -11,18 +11,21 @@
 ## Table of Contents
 
 *   [TypeScript](#typescript)
-*   [JavaScript](#javascript)
+*   [C#](#c)
 *   [Python](#python)
+*   [HTML](#html)
+*   [JavaScript](#javascript)
 *   [Go](#go)
 *   [Vue](#vue)
 *   [Stylus](#stylus)
 *   [Java](#java)
 *   [miscellaneous](#miscellaneous)
-*   [HTML](#html)
 *   [CSS](#css)
 *   [Dart](#dart)
 
 ## TypeScript
+
+*   [cccyd2003-qwq/pinkbin](https://github.com/cccyd2003-qwq/pinkbin) - 扫盘 · 看懂 · 删除。磁盘扫描+清理Agent（Tauri 2 + React + Rust）
 
 *   [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
 
@@ -61,6 +64,46 @@
 *   [weijordanNW/blog](https://github.com/weijordanNW/blog) - 子冥的博客
 
 *   [Mister-Hope/Mister-Hope.github.io](https://github.com/Mister-Hope/Mister-Hope.github.io) - Personal blog build with vuepress-theme-hope
+
+## C\#
+
+*   [PLFJY/ContextMenuMgr](https://github.com/PLFJY/ContextMenuMgr) - A Windows context menu management tool with new menu monitoring
+
+## Python
+
+*   [bleachbit/bleachbit](https://github.com/bleachbit/bleachbit) - BleachBit system cleaner for Windows and Linux
+
+*   [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) - 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
+
+*   [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) - 66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
+
+*   [wzdnzd/aggregator](https://github.com/wzdnzd/aggregator) - One-stop Proxies Crawling and Aggregation Platform
+
+*   [jackvale/rectg](https://github.com/jackvale/rectg) - Telegram 优质中文频道与群组自动化导航站。持续追踪 1000+ 节点，智能过滤死群、引流广告与有害内容，为您提供最纯粹的 TG 中文资源精选库。
+
+*   [EXP-Tools/steam-discount](https://github.com/EXP-Tools/steam-discount) - steam 特惠游戏榜单（自动刷新）
+
+*   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
+
+*   [Batman0506/wx-wchaty-robot](https://github.com/Batman0506/wx-wchaty-robot) - 一个可以转发消息的微信机器人，可以自定义转发的群，也可以二开做关键字校验，node.js服务
+
+*   [dreammis/social-auto-upload](https://github.com/dreammis/social-auto-upload) - 自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili
+
+*   [weijordanNW/webssh](https://github.com/weijordanNW/webssh) -
+
+*   [weijordanNW/yuque-md-img-handle-master](https://github.com/weijordanNW/yuque-md-img-handle-master) -
+
+## HTML
+
+*   [nexu-io/html-anything](https://github.com/nexu-io/html-anything) - ✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.
+
+*   [MycroftCooper/BlogUpdater](https://github.com/MycroftCooper/BlogUpdater) - 用于每日更新我的个人学习用博客与每日新闻和天气预报
+
+*   [cf-pages/Telegraph-Image](https://github.com/cf-pages/Telegraph-Image) - Image Hosting solution, Flickr/imgur alternative, make it easy for users to share their images. Using Cloudflare Pages and Telegraph.
+
+*   [dontpanic92/embedded-netease-music-player](https://github.com/dontpanic92/embedded-netease-music-player) - 网易云音乐外链播放器 - Embed a netease music player into your web page
+
+*   [xiaowansm5/Onlinemusic](https://github.com/xiaowansm5/Onlinemusic) - 在线音乐播放器
 
 ## JavaScript
 
@@ -105,28 +148,6 @@
 *   [weijordanNW/blog\_comment](https://github.com/weijordanNW/blog_comment) -
 
 *   [weijordanNW/blog\_plus\_comment](https://github.com/weijordanNW/blog_plus_comment) -
-
-## Python
-
-*   [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) - 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
-
-*   [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) - 66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
-
-*   [wzdnzd/aggregator](https://github.com/wzdnzd/aggregator) - One-stop Proxies Crawling and Aggregation Platform
-
-*   [jackvale/rectg](https://github.com/jackvale/rectg) - Telegram 优质中文频道与群组自动化导航站。持续追踪 1000+ 节点，智能过滤死群、引流广告与有害内容，为您提供最纯粹的 TG 中文资源精选库。
-
-*   [EXP-Tools/steam-discount](https://github.com/EXP-Tools/steam-discount) - steam 特惠游戏榜单（自动刷新）
-
-*   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
-
-*   [Batman0506/wx-wchaty-robot](https://github.com/Batman0506/wx-wchaty-robot) - 一个可以转发消息的微信机器人，可以自定义转发的群，也可以二开做关键字校验，node.js服务
-
-*   [dreammis/social-auto-upload](https://github.com/dreammis/social-auto-upload) - 自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili
-
-*   [weijordanNW/webssh](https://github.com/weijordanNW/webssh) -
-
-*   [weijordanNW/yuque-md-img-handle-master](https://github.com/weijordanNW/yuque-md-img-handle-master) -
 
 ## Go
 
@@ -189,16 +210,6 @@
 *   [weijordanNW/docker\_image\_pusher](https://github.com/weijordanNW/docker_image_pusher) - 使用Github Action将国外的Docker镜像转存到阿里云私有仓库，供国内服务器使用，免费易用
 
 *   [weijordanNW/oragekk.github.io](https://github.com/weijordanNW/oragekk.github.io) - vuepress2.x + vuepress-theme-hope blog source
-
-## HTML
-
-*   [MycroftCooper/BlogUpdater](https://github.com/MycroftCooper/BlogUpdater) - 用于每日更新我的个人学习用博客与每日新闻和天气预报
-
-*   [cf-pages/Telegraph-Image](https://github.com/cf-pages/Telegraph-Image) - Image Hosting solution, Flickr/imgur alternative, make it easy for users to share their images. Using Cloudflare Pages and Telegraph.
-
-*   [dontpanic92/embedded-netease-music-player](https://github.com/dontpanic92/embedded-netease-music-player) - 网易云音乐外链播放器 - Embed a netease music player into your web page
-
-*   [xiaowansm5/Onlinemusic](https://github.com/xiaowansm5/Onlinemusic) - 在线音乐播放器
 
 ## CSS
 
