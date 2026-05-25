@@ -11,19 +11,27 @@
 ## Table of Contents
 
 *   [TypeScript](#typescript)
-*   [C#](#c)
 *   [Python](#python)
+*   [miscellaneous](#miscellaneous)
+*   [Vue](#vue)
+*   [C#](#c)
 *   [HTML](#html)
 *   [JavaScript](#javascript)
 *   [Go](#go)
-*   [Vue](#vue)
 *   [Stylus](#stylus)
 *   [Java](#java)
-*   [miscellaneous](#miscellaneous)
 *   [CSS](#css)
 *   [Dart](#dart)
 
 ## TypeScript
+
+*   [heiehiehi/XinghuisamaBlogs](https://github.com/heiehiehi/XinghuisamaBlogs) - 这是一个采用 Next.js 构建的高颜值、毛玻璃（Glassmorphism）风格个人博客系统。本项目自带完善的前端展示与独立的本地后台控制台，支持 Markdown 沉浸式写作、草稿管理以及便捷的图床配置。（新增对移动端适配））
+
+*   [jnsahaj/tweakcn](https://github.com/jnsahaj/tweakcn) - A visual no-code theme editor for shadcn/ui components
+
+*   [CookSleep/gpt\_image\_playground](https://github.com/CookSleep/gpt_image_playground) - 基于 OpenAI gpt-image-2 API 的图片生成与编辑工具
+
+*   [lovedevpanda/Rhex](https://github.com/lovedevpanda/Rhex) - Rhex Forum System is a modern, extensible, production-ready forum platform for building and operating online communities.
 
 *   [cccyd2003-qwq/pinkbin](https://github.com/cccyd2003-qwq/pinkbin) - 扫盘 · 看懂 · 删除。磁盘扫描+清理Agent（Tauri 2 + React + Rust）
 
@@ -65,11 +73,9 @@
 
 *   [Mister-Hope/Mister-Hope.github.io](https://github.com/Mister-Hope/Mister-Hope.github.io) - Personal blog build with vuepress-theme-hope
 
-## C\#
-
-*   [PLFJY/ContextMenuMgr](https://github.com/PLFJY/ContextMenuMgr) - A Windows context menu management tool with new menu monitoring
-
 ## Python
+
+*   [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
 
 *   [bleachbit/bleachbit](https://github.com/bleachbit/bleachbit) - BleachBit system cleaner for Windows and Linux
 
@@ -92,6 +98,62 @@
 *   [weijordanNW/webssh](https://github.com/weijordanNW/webssh) -
 
 *   [weijordanNW/yuque-md-img-handle-master](https://github.com/weijordanNW/yuque-md-img-handle-master) -
+
+## miscellaneous
+
+*   [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
+
+*   [SamToki/Sam-Toki-Mouse-Cursors](https://github.com/SamToki/Sam-Toki-Mouse-Cursors) - 原创极简风格鼠标指针，适用于 Windows 系统。 ／ Original mouse cursors (pointers) for Windows, with minimalistic design. ／ 孤独摇滚 Bocchi the Rock 原神 Genshin 沉默魔女 Silent Witch
+
+*   [gaboolic/vercel-reverse-fast](https://github.com/gaboolic/vercel-reverse-fast) - vercel加速OpenAI/ChatGPT
+
+*   [rcy1314/some-stars](https://github.com/rcy1314/some-stars) - 我的star列表，每天自动更新
+
+*   [weijordanNW/uptime-kuma](https://github.com/weijordanNW/uptime-kuma) - A fancy self-hosted monitoring tool 服务监控
+
+*   [weijordanNW/pic-hosting-cluster](https://github.com/weijordanNW/pic-hosting-cluster) - 图库集群方案
+
+*   [weijordanNW/GoFilm](https://github.com/weijordanNW/GoFilm) - 多播放源自动采集在线影视网站 golang vue
+
+*   [weijordanNW/git-ai-tool](https://github.com/weijordanNW/git-ai-tool) - 一个使用ai自动生成 coomin  和周报的 工具
+
+*   [weijordanNW/weijordan-imagehub-repo](https://github.com/weijordanNW/weijordan-imagehub-repo) - imagehub 图库
+
+*   [wozulong/fuclaude](https://github.com/wozulong/fuclaude) - 法克劳德，啥也不是。
+
+*   [weijordanNW/remio-home](https://github.com/weijordanNW/remio-home) - 个人主页/homepage/remio-home
+
+*   [weijordanNW/next.js](https://github.com/weijordanNW/next.js) - The React Framework
+
+*   [weijordanNW/chatgpt-web-midjourney-proxy](https://github.com/weijordanNW/chatgpt-web-midjourney-proxy) - One UI is all done with chatgpt web, midjourney, gpts,suno,luma,runway,viggle,flux,ideogram,realtime,pika; Simultaneous support  Web / PWA / Linux / Win / MacOS platform
+
+*   [weijordanNW/docker\_image\_pusher](https://github.com/weijordanNW/docker_image_pusher) - 使用Github Action将国外的Docker镜像转存到阿里云私有仓库，供国内服务器使用，免费易用
+
+*   [weijordanNW/oragekk.github.io](https://github.com/weijordanNW/oragekk.github.io) - vuepress2.x + vuepress-theme-hope blog source
+
+## Vue
+
+*   [YunyuVv/Yunyu](https://github.com/YunyuVv/Yunyu) - 云屿博客网站
+
+*   [dairoot/ChatGPT-Mirror](https://github.com/dairoot/ChatGPT-Mirror) - 🚀 一键部署个人的 ChatGPT 镜像站
+
+*   [Bear-biscuit/music\_web](https://github.com/Bear-biscuit/music_web) -
+
+*   [Tsuk1ko/bilibili-live-chat](https://github.com/Tsuk1ko/bilibili-live-chat) - 📽️ 主要用于 OBS 的纯 Web 仿 YouTube Live Chat 风格的简易 Bilibili 弹幕姬
+
+*   [Kuingsmile/PicList](https://github.com/Kuingsmile/PicList) - An image upload and manage tool, base on PicGo
+
+*   [weijordanNW/music-player](https://github.com/weijordanNW/music-player) -
+
+*   [weijordanNW/oragekk.github.io-main](https://github.com/weijordanNW/oragekk.github.io-main) -
+
+*   [weijordanNW/blog\_plus](https://github.com/weijordanNW/blog_plus) -
+
+*   [OrageKK/oragekk.github.io](https://github.com/OrageKK/oragekk.github.io) - vuepress2.x + vuepress-theme-hope blog source
+
+## C\#
+
+*   [PLFJY/ContextMenuMgr](https://github.com/PLFJY/ContextMenuMgr) - A Windows context menu management tool with new menu monitoring
 
 ## HTML
 
@@ -153,24 +215,6 @@
 
 *   [linux-do/override](https://github.com/linux-do/override) - 啥也不是
 
-## Vue
-
-*   [dairoot/ChatGPT-Mirror](https://github.com/dairoot/ChatGPT-Mirror) - 🚀 一键部署个人的 ChatGPT 镜像站
-
-*   [Bear-biscuit/music\_web](https://github.com/Bear-biscuit/music_web) -
-
-*   [Tsuk1ko/bilibili-live-chat](https://github.com/Tsuk1ko/bilibili-live-chat) - 📽️ 主要用于 OBS 的纯 Web 仿 YouTube Live Chat 风格的简易 Bilibili 弹幕姬
-
-*   [Kuingsmile/PicList](https://github.com/Kuingsmile/PicList) - An image upload and manage tool, base on PicGo
-
-*   [weijordanNW/music-player](https://github.com/weijordanNW/music-player) -
-
-*   [weijordanNW/oragekk.github.io-main](https://github.com/weijordanNW/oragekk.github.io-main) -
-
-*   [weijordanNW/blog\_plus](https://github.com/weijordanNW/blog_plus) -
-
-*   [OrageKK/oragekk.github.io](https://github.com/OrageKK/oragekk.github.io) - vuepress2.x + vuepress-theme-hope blog source
-
 ## Stylus
 
 *   [amehime/hexo-theme-shoka](https://github.com/amehime/hexo-theme-shoka) - Just For https://shoka.lostyu.me/
@@ -180,36 +224,6 @@
 *   [Hello-hao/Tbed](https://github.com/Hello-hao/Tbed) - Hellohao图床 | 图像托管 | 云相册，分享/水印、存储源分发、图像管理、前后端分离。
 
 *   [april-projects/april-wallpaper](https://github.com/april-projects/april-wallpaper) - 一个每日自动拉取壁纸写入readme文件的程序，新增壁纸 API
-
-## miscellaneous
-
-*   [SamToki/Sam-Toki-Mouse-Cursors](https://github.com/SamToki/Sam-Toki-Mouse-Cursors) - 原创极简风格鼠标指针，适用于 Windows 系统。 ／ Original mouse cursors (pointers) for Windows, with minimalistic design. ／ 孤独摇滚 Bocchi the Rock 原神 Genshin 沉默魔女 Silent Witch
-
-*   [gaboolic/vercel-reverse-fast](https://github.com/gaboolic/vercel-reverse-fast) - vercel加速OpenAI/ChatGPT
-
-*   [rcy1314/some-stars](https://github.com/rcy1314/some-stars) - 我的star列表，每天自动更新
-
-*   [weijordanNW/uptime-kuma](https://github.com/weijordanNW/uptime-kuma) - A fancy self-hosted monitoring tool 服务监控
-
-*   [weijordanNW/pic-hosting-cluster](https://github.com/weijordanNW/pic-hosting-cluster) - 图库集群方案
-
-*   [weijordanNW/GoFilm](https://github.com/weijordanNW/GoFilm) - 多播放源自动采集在线影视网站 golang vue
-
-*   [weijordanNW/git-ai-tool](https://github.com/weijordanNW/git-ai-tool) - 一个使用ai自动生成 coomin  和周报的 工具
-
-*   [weijordanNW/weijordan-imagehub-repo](https://github.com/weijordanNW/weijordan-imagehub-repo) - imagehub 图库
-
-*   [wozulong/fuclaude](https://github.com/wozulong/fuclaude) - 法克劳德，啥也不是。
-
-*   [weijordanNW/remio-home](https://github.com/weijordanNW/remio-home) - 个人主页/homepage/remio-home
-
-*   [weijordanNW/next.js](https://github.com/weijordanNW/next.js) - The React Framework
-
-*   [weijordanNW/chatgpt-web-midjourney-proxy](https://github.com/weijordanNW/chatgpt-web-midjourney-proxy) - One UI is all done with chatgpt web, midjourney, gpts,suno,luma,runway,viggle,flux,ideogram,realtime,pika; Simultaneous support  Web / PWA / Linux / Win / MacOS platform
-
-*   [weijordanNW/docker\_image\_pusher](https://github.com/weijordanNW/docker_image_pusher) - 使用Github Action将国外的Docker镜像转存到阿里云私有仓库，供国内服务器使用，免费易用
-
-*   [weijordanNW/oragekk.github.io](https://github.com/weijordanNW/oragekk.github.io) - vuepress2.x + vuepress-theme-hope blog source
 
 ## CSS
 
