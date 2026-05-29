@@ -10,8 +10,8 @@
 
 ## Table of Contents
 
-*   [Shell](#shell)
 *   [JavaScript](#javascript)
+*   [Shell](#shell)
 *   [TypeScript](#typescript)
 *   [Python](#python)
 *   [miscellaneous](#miscellaneous)
@@ -24,11 +24,9 @@
 *   [CSS](#css)
 *   [Dart](#dart)
 
-## Shell
-
-*   [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory.
-
 ## JavaScript
+
+*   [FoundZiGu/GuJumpgate](https://github.com/FoundZiGu/GuJumpgate) -
 
 *   [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 
@@ -73,6 +71,10 @@
 *   [weijordanNW/blog\_comment](https://github.com/weijordanNW/blog_comment) -
 
 *   [weijordanNW/blog\_plus\_comment](https://github.com/weijordanNW/blog_plus_comment) -
+
+## Shell
+
+*   [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory.
 
 ## TypeScript
 
