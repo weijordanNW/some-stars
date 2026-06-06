@@ -10,11 +10,12 @@
 
 ## Table of Contents
 
-*   [TypeScript](#typescript)
 *   [Python](#python)
+*   [Mermaid](#mermaid)
+*   [miscellaneous](#miscellaneous)
+*   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
 *   [Shell](#shell)
-*   [miscellaneous](#miscellaneous)
 *   [Vue](#vue)
 *   [C#](#c)
 *   [HTML](#html)
@@ -24,7 +25,77 @@
 *   [CSS](#css)
 *   [Dart](#dart)
 
+## Python
+
+*   [Agents365-ai/excalidraw-skill](https://github.com/Agents365-ai/excalidraw-skill) - Hand-drawn Excalidraw diagrams from natural language. 5 patterns, 8-color semantic palette, Kroki API or local CLI. PNG/SVG, multi-agent.
+
+*   [Agents365-ai/drawio-skill](https://github.com/Agents365-ai/drawio-skill) - Generate draw.io diagrams from natural language — 6 presets, vision self-check + up to 5-round refinement, codebase-to-diagram, 10,000+ official shapes & 321 AI/LLM brand logos. Exports PNG/SVG/PDF/JPG.
+
+*   [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
+
+*   [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
+
+*   [bleachbit/bleachbit](https://github.com/bleachbit/bleachbit) - BleachBit system cleaner for Windows and Linux
+
+*   [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) - 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
+
+*   [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) - 66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
+
+*   [wzdnzd/aggregator](https://github.com/wzdnzd/aggregator) - One-stop Proxies Crawling and Aggregation Platform
+
+*   [jackvale/rectg](https://github.com/jackvale/rectg) - Telegram 中文频道、群组与机器人精选索引，结合自动化抓取与人工整理，支持在线搜索与分类浏览。
+
+*   [EXP-Tools/steam-discount](https://github.com/EXP-Tools/steam-discount) - steam 特惠游戏榜单（自动刷新）
+
+*   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
+
+*   [Batman0506/wx-wchaty-robot](https://github.com/Batman0506/wx-wchaty-robot) - 一个可以转发消息的微信机器人，可以自定义转发的群，也可以二开做关键字校验，node.js服务
+
+*   [dreammis/social-auto-upload](https://github.com/dreammis/social-auto-upload) - 自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili
+
+*   [weijordanNW/webssh](https://github.com/weijordanNW/webssh) -
+
+## Mermaid
+
+*   [Agents365-ai/mermaid-skill](https://github.com/Agents365-ai/mermaid-skill) - Mermaid diagrams (.mmd) from natural language with validation loop. 11+ types, multi-backend (mmdc / Kroki), PNG/SVG/PDF, multi-agent.
+
+## miscellaneous
+
+*   [zhiningo/drawio-flowchart-skill](https://github.com/zhiningo/drawio-flowchart-skill) - 生成高质量 draw.io 流程图，布局整齐、层次分明、风格统一
+
+*   [axtonliu/axton-obsidian-visual-skills](https://github.com/axtonliu/axton-obsidian-visual-skills) - Visual Skills Pack for Obsidian: generate Canvas, Excalidraw, and Mermaid diagrams from text with Claude Code
+
+*   [viviannnl/ai-workflows](https://github.com/viviannnl/ai-workflows) - Public AI workflow guides and operating patterns
+
+*   [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
+
+*   [SamToki/Sam-Toki-Mouse-Cursors](https://github.com/SamToki/Sam-Toki-Mouse-Cursors) - 原创极简风格鼠标指针，适用于 Windows 系统。 ／ Original mouse cursors (pointers) for Windows, with minimalistic design. ／ 孤独摇滚 Bocchi the Rock 原神 Genshin 沉默魔女 Silent Witch
+
+*   [gaboolic/vercel-reverse-fast](https://github.com/gaboolic/vercel-reverse-fast) - vercel加速OpenAI/ChatGPT
+
+*   [rcy1314/some-stars](https://github.com/rcy1314/some-stars) - 我的star列表，每天自动更新
+
+*   [weijordanNW/uptime-kuma](https://github.com/weijordanNW/uptime-kuma) - A fancy self-hosted monitoring tool 服务监控
+
+*   [weijordanNW/pic-hosting-cluster](https://github.com/weijordanNW/pic-hosting-cluster) - 图库集群方案
+
+*   [weijordanNW/GoFilm](https://github.com/weijordanNW/GoFilm) - 多播放源自动采集在线影视网站 golang vue
+
+*   [weijordanNW/git-ai-tool](https://github.com/weijordanNW/git-ai-tool) - 一个使用ai自动生成 coomin  和周报的 工具
+
+*   [weijordanNW/weijordan-imagehub-repo](https://github.com/weijordanNW/weijordan-imagehub-repo) - imagehub 图库
+
+*   [wozulong/fuclaude](https://github.com/wozulong/fuclaude) - 法克劳德，啥也不是。
+
+*   [weijordanNW/remio-home](https://github.com/weijordanNW/remio-home) - 个人主页/homepage/remio-home
+
+*   [weijordanNW/next.js](https://github.com/weijordanNW/next.js) - The React Framework
+
+*   [weijordanNW/chatgpt-web-midjourney-proxy](https://github.com/weijordanNW/chatgpt-web-midjourney-proxy) - One UI is all done with chatgpt web, midjourney, gpts,suno,luma,runway,viggle,flux,ideogram,realtime,pika; Simultaneous support  Web / PWA / Linux / Win / MacOS platform
+
 ## TypeScript
+
+*   [DHL0301/NexusDraw](https://github.com/DHL0301/NexusDraw) - 本项目基于开源项目 AI Draw Nexus 二次整理，用于构建一个支持 AI 辅助生成、编辑和管理图表的 Web 应用。当前版本支持 Mermaid、Excalidraw、Draw.io 三类图表引擎，适合用于流程图、架构图、方案图、业务流程图、知识梳理图等场景。
 
 *   [Achilng/floral-notepaper](https://github.com/Achilng/floral-notepaper) - 花笺，轻量优雅的跨平台桌面便签工具，支持 Markdown 编辑与预览
 
@@ -76,35 +147,9 @@
 
 *   [kasuie/remio-home](https://github.com/kasuie/remio-home) - 个人主页/homepage/remio-home
 
-*   [weijordanNW/blog](https://github.com/weijordanNW/blog) - 子冥的博客
-
-## Python
-
-*   [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
-
-*   [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
-
-*   [bleachbit/bleachbit](https://github.com/bleachbit/bleachbit) - BleachBit system cleaner for Windows and Linux
-
-*   [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) - 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
-
-*   [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) - 66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
-
-*   [wzdnzd/aggregator](https://github.com/wzdnzd/aggregator) - One-stop Proxies Crawling and Aggregation Platform
-
-*   [jackvale/rectg](https://github.com/jackvale/rectg) - Telegram 中文频道、群组与机器人精选索引，结合自动化抓取与人工整理，支持在线搜索与分类浏览。
-
-*   [EXP-Tools/steam-discount](https://github.com/EXP-Tools/steam-discount) - steam 特惠游戏榜单（自动刷新）
-
-*   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
-
-*   [Batman0506/wx-wchaty-robot](https://github.com/Batman0506/wx-wchaty-robot) - 一个可以转发消息的微信机器人，可以自定义转发的群，也可以二开做关键字校验，node.js服务
-
-*   [dreammis/social-auto-upload](https://github.com/dreammis/social-auto-upload) - 自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili
-
-*   [weijordanNW/webssh](https://github.com/weijordanNW/webssh) -
-
 ## JavaScript
+
+*   [liujuntao123/smart-excalidraw-next](https://github.com/liujuntao123/smart-excalidraw-next) - A smart, powerful, and beautiful excalidraw drawing tool.Draw Professional Charts with Natural Language
 
 *   [FoundZiGu/GuJumpgate](https://github.com/FoundZiGu/GuJumpgate) -
 
@@ -146,47 +191,9 @@
 
 *   [FuShengPing/android-qinglong](https://github.com/FuShengPing/android-qinglong) - 基于青龙面板接口开发的App，支持面板大部分原生功能，同时提供拓展模块，帮助用户快捷管理。
 
-*   [weijordanNW/auto\_doc\_test](https://github.com/weijordanNW/auto_doc_test) -
-
-*   [weijordanNW/blog\_comment](https://github.com/weijordanNW/blog_comment) -
-
-*   [weijordanNW/blog\_plus\_comment](https://github.com/weijordanNW/blog_plus_comment) -
-
 ## Shell
 
 *   [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory.
-
-## miscellaneous
-
-*   [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
-
-*   [SamToki/Sam-Toki-Mouse-Cursors](https://github.com/SamToki/Sam-Toki-Mouse-Cursors) - 原创极简风格鼠标指针，适用于 Windows 系统。 ／ Original mouse cursors (pointers) for Windows, with minimalistic design. ／ 孤独摇滚 Bocchi the Rock 原神 Genshin 沉默魔女 Silent Witch
-
-*   [gaboolic/vercel-reverse-fast](https://github.com/gaboolic/vercel-reverse-fast) - vercel加速OpenAI/ChatGPT
-
-*   [rcy1314/some-stars](https://github.com/rcy1314/some-stars) - 我的star列表，每天自动更新
-
-*   [weijordanNW/uptime-kuma](https://github.com/weijordanNW/uptime-kuma) - A fancy self-hosted monitoring tool 服务监控
-
-*   [weijordanNW/pic-hosting-cluster](https://github.com/weijordanNW/pic-hosting-cluster) - 图库集群方案
-
-*   [weijordanNW/GoFilm](https://github.com/weijordanNW/GoFilm) - 多播放源自动采集在线影视网站 golang vue
-
-*   [weijordanNW/git-ai-tool](https://github.com/weijordanNW/git-ai-tool) - 一个使用ai自动生成 coomin  和周报的 工具
-
-*   [weijordanNW/weijordan-imagehub-repo](https://github.com/weijordanNW/weijordan-imagehub-repo) - imagehub 图库
-
-*   [wozulong/fuclaude](https://github.com/wozulong/fuclaude) - 法克劳德，啥也不是。
-
-*   [weijordanNW/remio-home](https://github.com/weijordanNW/remio-home) - 个人主页/homepage/remio-home
-
-*   [weijordanNW/next.js](https://github.com/weijordanNW/next.js) - The React Framework
-
-*   [weijordanNW/chatgpt-web-midjourney-proxy](https://github.com/weijordanNW/chatgpt-web-midjourney-proxy) - One UI is all done with chatgpt web, midjourney, gpts,suno,luma,runway,viggle,flux,ideogram,realtime,pika; Simultaneous support  Web / PWA / Linux / Win / MacOS platform
-
-*   [weijordanNW/docker\_image\_pusher](https://github.com/weijordanNW/docker_image_pusher) - 使用Github Action将国外的Docker镜像转存到阿里云私有仓库，供国内服务器使用，免费易用
-
-*   [weijordanNW/oragekk.github.io](https://github.com/weijordanNW/oragekk.github.io) - vuepress2.x + vuepress-theme-hope blog source
 
 ## Vue
 
@@ -201,10 +208,6 @@
 *   [Kuingsmile/PicList](https://github.com/Kuingsmile/PicList) - An image upload and manage tool, base on PicGo
 
 *   [weijordanNW/music-player](https://github.com/weijordanNW/music-player) -
-
-*   [weijordanNW/oragekk.github.io-main](https://github.com/weijordanNW/oragekk.github.io-main) -
-
-*   [weijordanNW/blog\_plus](https://github.com/weijordanNW/blog_plus) -
 
 ## C\#
 
