@@ -10,13 +10,13 @@
 
 ## Table of Contents
 
-*   [JavaScript](#javascript)
 *   [Python](#python)
+*   [Shell](#shell)
+*   [TypeScript](#typescript)
+*   [JavaScript](#javascript)
 *   [Mermaid](#mermaid)
 *   [miscellaneous](#miscellaneous)
-*   [TypeScript](#typescript)
 *   [Rust](#rust)
-*   [Shell](#shell)
 *   [Vue](#vue)
 *   [C#](#c)
 *   [HTML](#html)
@@ -26,55 +26,11 @@
 *   [CSS](#css)
 *   [Dart](#dart)
 
-## JavaScript
-
-*   [weijordanNW/AI-Draw-Nexus-ZM](https://github.com/weijordanNW/AI-Draw-Nexus-ZM) - AI-Draw-Nexus，用于构建一个支持 AI 辅助生成、编辑和管理图表的 Web 应用。当前版本支持 Mermaid、Excalidraw、Draw.io ，image2四类图表引擎，适合用于流程图、架构图、方案图、业务流程图、知识梳理图等场景。
-
-*   [imxv/Pretty-mermaid-skills](https://github.com/imxv/Pretty-mermaid-skills) - To provide AI with Mermaid chart rendering capability, supporting both SVG and ASCII output formats
-
-*   [liujuntao123/smart-excalidraw-next](https://github.com/liujuntao123/smart-excalidraw-next) - A smart, powerful, and beautiful excalidraw drawing tool.Draw Professional Charts with Natural Language
-
-*   [FoundZiGu/GuJumpgate](https://github.com/FoundZiGu/GuJumpgate) -
-
-*   [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
-
-*   [Haleclipse/CodexDesktop-Rebuild](https://github.com/Haleclipse/CodexDesktop-Rebuild) - Codex Desktop App - Cross-platform Rebuild
-
-*   [1186258278/OpenClawChineseTranslation](https://github.com/1186258278/OpenClawChineseTranslation) - 🦞 OpenClaw (Clawdbot/Moltbot) 汉化版 - 开源个人 AI 助手中文版 | Claude/ChatGPT LLM 接入 | WhatsApp/Telegram/Discord 多平台 | 每小时自动同步 | CLI + Dashboard 全中文 | 全流程搭建教程，以及排错指南！
-
-*   [lili-luo/aicoding-cookbook](https://github.com/lili-luo/aicoding-cookbook) -
-
-*   [elog-x/yuque-hexo](https://github.com/elog-x/yuque-hexo) - 语雀 + Elog + Hexo + GitHub Actions + Vercel 博客解决方案
-
-*   [elog-x/notion-halo](https://github.com/elog-x/notion-halo) - Notion + Elog + Halo + GitHub Actions 博客解决方案
-
-*   [cmliu/WorkerVless2sub](https://github.com/cmliu/WorkerVless2sub) - 自动化批量替换生成优选线路 VMess / VLESS / Trojan 节点的 优选订阅生成器
-
-*   [koajs/koa](https://github.com/koajs/koa) - Expressive middleware for node.js using ES2017 async functions
-
-*   [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
-
-*   [yelog/hexo-theme-3-hexo](https://github.com/yelog/hexo-theme-3-hexo) - hexo主题：三段式设计、极简、方便  Hexo theme: three-stage design
-
-*   [panghujiajia/todayhub-web](https://github.com/panghujiajia/todayhub-web) - react+tailwindcss实现的今日热榜
-
-*   [JimHans/live2d-kanban-desktop](https://github.com/JimHans/live2d-kanban-desktop) - 基于Electron制作的桌面看板娘，支持日程提醒、小窗模式、ChatGPT集成、网页搜索、本地moc模型加载与独立设置界面等  | An AI Based live2d Kanban for Desktop Users Using Electron
-
-*   [itorr/anime-grid](https://github.com/itorr/anime-grid) - 🤖「动画生涯个人喜好表生成器」
-
-*   [Alittfre/vitepress-theme-bluearchive](https://github.com/Alittfre/vitepress-theme-bluearchive) - Blue Archive主题博客，基于VitePress，绝赞画饼中
-
-*   [rcy1314/noisework](https://github.com/rcy1314/noisework) - #主页 #引导页 ⭐️多模式个人主页展示页，🌈带pwa模式，多组件效果，可随时切换的引导页🎉 添加右键弹出菜单，RSS动态文章卡片，视频播放📫ADS广告位
-
-*   [rootlexme/hexo-ai-excerpt](https://github.com/rootlexme/hexo-ai-excerpt) - hexo使用ai为您的文章生成摘要
-
-*   [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.
-
-*   [YangguangZhou/some-stars](https://github.com/YangguangZhou/some-stars) - 我的star列表，每天自动更新
-
-*   [FuShengPing/android-qinglong](https://github.com/FuShengPing/android-qinglong) - 基于青龙面板接口开发的App，支持面板大部分原生功能，同时提供拓展模块，帮助用户快捷管理。
-
 ## Python
+
+*   [ningzimu/codex-ppt-skill](https://github.com/ningzimu/codex-ppt-skill) - Codex skill for generating image-based PowerPoint decks with gpt-image-2
+
+*   [yukkcat/gemini-business2api](https://github.com/yukkcat/gemini-business2api) - OpenAI-compatible API for Gemini Business with multi-account load balancing and multimodal capabilities (image/video generation, file parsing) | 将 Gemini Business 转为 OpenAI 兼容接口，支持多账户负载均衡及多模态能力（图像生成、视频生成、解析文件）
 
 *   [Agents365-ai/excalidraw-skill](https://github.com/Agents365-ai/excalidraw-skill) - Hand-drawn Excalidraw diagrams from natural language. 5 patterns, 8-color semantic palette, Kroki API or local CLI. PNG/SVG, multi-agent.
 
@@ -104,45 +60,15 @@
 
 *   [weijordanNW/webssh](https://github.com/weijordanNW/webssh) -
 
-## Mermaid
+## Shell
 
-*   [Agents365-ai/mermaid-skill](https://github.com/Agents365-ai/mermaid-skill) - Mermaid diagrams (.mmd) from natural language with validation loop. 11+ types, multi-backend (mmdc / Kroki), PNG/SVG/PDF, multi-agent.
+*   [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) - 小雅Alist的相关周边
 
-## miscellaneous
-
-*   [zhiningo/drawio-flowchart-skill](https://github.com/zhiningo/drawio-flowchart-skill) - 生成高质量 draw.io 流程图，布局整齐、层次分明、风格统一
-
-*   [axtonliu/axton-obsidian-visual-skills](https://github.com/axtonliu/axton-obsidian-visual-skills) - Visual Skills Pack for Obsidian: generate Canvas, Excalidraw, and Mermaid diagrams from text with Claude Code
-
-*   [viviannnl/ai-workflows](https://github.com/viviannnl/ai-workflows) - Public AI workflow guides and operating patterns
-
-*   [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
-
-*   [SamToki/Sam-Toki-Mouse-Cursors](https://github.com/SamToki/Sam-Toki-Mouse-Cursors) - 原创极简风格鼠标指针，适用于 Windows 系统。 ／ Original mouse cursors (pointers) for Windows, with minimalistic design. ／ 孤独摇滚 Bocchi the Rock 原神 Genshin 沉默魔女 Silent Witch
-
-*   [gaboolic/vercel-reverse-fast](https://github.com/gaboolic/vercel-reverse-fast) - vercel加速OpenAI/ChatGPT
-
-*   [rcy1314/some-stars](https://github.com/rcy1314/some-stars) - 我的star列表，每天自动更新
-
-*   [weijordanNW/uptime-kuma](https://github.com/weijordanNW/uptime-kuma) - A fancy self-hosted monitoring tool 服务监控
-
-*   [weijordanNW/pic-hosting-cluster](https://github.com/weijordanNW/pic-hosting-cluster) - 图库集群方案
-
-*   [weijordanNW/GoFilm](https://github.com/weijordanNW/GoFilm) - 多播放源自动采集在线影视网站 golang vue
-
-*   [weijordanNW/git-ai-tool](https://github.com/weijordanNW/git-ai-tool) - 一个使用ai自动生成 coomin  和周报的 工具
-
-*   [weijordanNW/weijordan-imagehub-repo](https://github.com/weijordanNW/weijordan-imagehub-repo) - imagehub 图库
-
-*   [wozulong/fuclaude](https://github.com/wozulong/fuclaude) - 法克劳德，啥也不是。
-
-*   [weijordanNW/remio-home](https://github.com/weijordanNW/remio-home) - 个人主页/homepage/remio-home
-
-*   [weijordanNW/next.js](https://github.com/weijordanNW/next.js) - The React Framework
-
-*   [weijordanNW/chatgpt-web-midjourney-proxy](https://github.com/weijordanNW/chatgpt-web-midjourney-proxy) - One UI is all done with chatgpt web, midjourney, gpts,suno,luma,runway,viggle,flux,ideogram,realtime,pika; Simultaneous support  Web / PWA / Linux / Win / MacOS platform
+*   [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory.
 
 ## TypeScript
+
+*   [dreamhunter2333/cloudflare\_temp\_email](https://github.com/dreamhunter2333/cloudflare_temp_email) - CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot
 
 *   [DHL0301/NexusDraw](https://github.com/DHL0301/NexusDraw) - 本项目基于开源项目 AI Draw Nexus 二次整理，用于构建一个支持 AI 辅助生成、编辑和管理图表的 Web 应用。当前版本支持 Mermaid、Excalidraw、Draw.io 三类图表引擎，适合用于流程图、架构图、方案图、业务流程图、知识梳理图等场景。
 
@@ -190,15 +116,91 @@
 
 *   [weijordanNW/my-paper-ai](https://github.com/weijordanNW/my-paper-ai) -
 
-*   [weijordanNW/weijordan-home](https://github.com/weijordanNW/weijordan-home) -
+## JavaScript
+
+*   [liujuntao123/smart-mermaid](https://github.com/liujuntao123/smart-mermaid) - 一款基于 AI 技术的 Web 应用程序，可将文本内容智能转换为 Mermaid 格式的代码，并将其渲染成可视化图表。
+
+*   [weijordanNW/AI-Draw-Nexus-ZM](https://github.com/weijordanNW/AI-Draw-Nexus-ZM) - AI-Draw-Nexus，用于构建一个支持 AI 辅助生成、编辑和管理图表的 Web 应用。当前版本支持 Mermaid、Excalidraw、Draw.io ，image2四类图表引擎，适合用于流程图、架构图、方案图、业务流程图、知识梳理图等场景。
+
+*   [imxv/Pretty-mermaid-skills](https://github.com/imxv/Pretty-mermaid-skills) - To provide AI with Mermaid chart rendering capability, supporting both SVG and ASCII output formats
+
+*   [liujuntao123/smart-excalidraw-next](https://github.com/liujuntao123/smart-excalidraw-next) - A smart, powerful, and beautiful excalidraw drawing tool.Draw Professional Charts with Natural Language
+
+*   [FoundZiGu/GuJumpgate](https://github.com/FoundZiGu/GuJumpgate) -
+
+*   [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
+
+*   [Haleclipse/CodexDesktop-Rebuild](https://github.com/Haleclipse/CodexDesktop-Rebuild) - Codex Desktop App - Cross-platform Rebuild
+
+*   [1186258278/OpenClawChineseTranslation](https://github.com/1186258278/OpenClawChineseTranslation) - 🦞 OpenClaw (Clawdbot/Moltbot) 汉化版 - 开源个人 AI 助手中文版 | Claude/ChatGPT LLM 接入 | WhatsApp/Telegram/Discord 多平台 | 每小时自动同步 | CLI + Dashboard 全中文 | 全流程搭建教程，以及排错指南！
+
+*   [lili-luo/aicoding-cookbook](https://github.com/lili-luo/aicoding-cookbook) -
+
+*   [elog-x/yuque-hexo](https://github.com/elog-x/yuque-hexo) - 语雀 + Elog + Hexo + GitHub Actions + Vercel 博客解决方案
+
+*   [elog-x/notion-halo](https://github.com/elog-x/notion-halo) - Notion + Elog + Halo + GitHub Actions 博客解决方案
+
+*   [cmliu/WorkerVless2sub](https://github.com/cmliu/WorkerVless2sub) - 自动化批量替换生成优选线路 VMess / VLESS / Trojan 节点的 优选订阅生成器
+
+*   [koajs/koa](https://github.com/koajs/koa) - Expressive middleware for node.js using ES2017 async functions
+
+*   [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
+
+*   [yelog/hexo-theme-3-hexo](https://github.com/yelog/hexo-theme-3-hexo) - hexo主题：三段式设计、极简、方便  Hexo theme: three-stage design
+
+*   [panghujiajia/todayhub-web](https://github.com/panghujiajia/todayhub-web) - react+tailwindcss实现的今日热榜
+
+*   [JimHans/live2d-kanban-desktop](https://github.com/JimHans/live2d-kanban-desktop) - 基于Electron制作的桌面看板娘，支持日程提醒、小窗模式、ChatGPT集成、网页搜索、本地moc模型加载与独立设置界面等  | An AI Based live2d Kanban for Desktop Users Using Electron
+
+*   [itorr/anime-grid](https://github.com/itorr/anime-grid) - 🤖「动画生涯个人喜好表生成器」
+
+*   [Alittfre/vitepress-theme-bluearchive](https://github.com/Alittfre/vitepress-theme-bluearchive) - Blue Archive主题博客，基于VitePress，绝赞画饼中
+
+*   [rcy1314/noisework](https://github.com/rcy1314/noisework) - #主页 #引导页 ⭐️多模式个人主页展示页，🌈带pwa模式，多组件效果，可随时切换的引导页🎉 添加右键弹出菜单，RSS动态文章卡片，视频播放📫ADS广告位
+
+*   [rootlexme/hexo-ai-excerpt](https://github.com/rootlexme/hexo-ai-excerpt) - hexo使用ai为您的文章生成摘要
+
+*   [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.
+
+*   [YangguangZhou/some-stars](https://github.com/YangguangZhou/some-stars) - 我的star列表，每天自动更新
+
+*   [FuShengPing/android-qinglong](https://github.com/FuShengPing/android-qinglong) - 基于青龙面板接口开发的App，支持面板大部分原生功能，同时提供拓展模块，帮助用户快捷管理。
+
+## Mermaid
+
+*   [Agents365-ai/mermaid-skill](https://github.com/Agents365-ai/mermaid-skill) - Mermaid diagrams (.mmd) from natural language with validation loop. 11+ types, multi-backend (mmdc / Kroki), PNG/SVG/PDF, multi-agent.
+
+## miscellaneous
+
+*   [zhiningo/drawio-flowchart-skill](https://github.com/zhiningo/drawio-flowchart-skill) - 生成高质量 draw.io 流程图，布局整齐、层次分明、风格统一
+
+*   [axtonliu/axton-obsidian-visual-skills](https://github.com/axtonliu/axton-obsidian-visual-skills) - Visual Skills Pack for Obsidian: generate Canvas, Excalidraw, and Mermaid diagrams from text with Claude Code
+
+*   [viviannnl/ai-workflows](https://github.com/viviannnl/ai-workflows) - Public AI workflow guides and operating patterns
+
+*   [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
+
+*   [SamToki/Sam-Toki-Mouse-Cursors](https://github.com/SamToki/Sam-Toki-Mouse-Cursors) - 原创极简风格鼠标指针，适用于 Windows 系统。 ／ Original mouse cursors (pointers) for Windows, with minimalistic design. ／ 孤独摇滚 Bocchi the Rock 原神 Genshin 沉默魔女 Silent Witch
+
+*   [gaboolic/vercel-reverse-fast](https://github.com/gaboolic/vercel-reverse-fast) - vercel加速OpenAI/ChatGPT
+
+*   [rcy1314/some-stars](https://github.com/rcy1314/some-stars) - 我的star列表，每天自动更新
+
+*   [weijordanNW/uptime-kuma](https://github.com/weijordanNW/uptime-kuma) - A fancy self-hosted monitoring tool 服务监控
+
+*   [weijordanNW/pic-hosting-cluster](https://github.com/weijordanNW/pic-hosting-cluster) - 图库集群方案
+
+*   [weijordanNW/GoFilm](https://github.com/weijordanNW/GoFilm) - 多播放源自动采集在线影视网站 golang vue
+
+*   [weijordanNW/git-ai-tool](https://github.com/weijordanNW/git-ai-tool) - 一个使用ai自动生成 coomin  和周报的 工具
+
+*   [weijordanNW/weijordan-imagehub-repo](https://github.com/weijordanNW/weijordan-imagehub-repo) - imagehub 图库
+
+*   [wozulong/fuclaude](https://github.com/wozulong/fuclaude) - 法克劳德，啥也不是。
 
 ## Rust
 
 *   [Achilng/floral-notepaper](https://github.com/Achilng/floral-notepaper) - 花笺，轻量优雅的跨平台桌面便签工具，支持 Markdown 编辑与预览
-
-## Shell
-
-*   [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory.
 
 ## Vue
 
@@ -247,8 +249,6 @@
 ## CSS
 
 *   [sunyctf/css-effects](https://github.com/sunyctf/css-effects) - ⭐ 前端css特效，持续更新。喜欢的话就Star一下吧！
-
-*   [kasuie/alist-customize](https://github.com/kasuie/alist-customize) - alist style 样式上的一些调整美化，如恰巧你也喜欢那便是极好的了~   alist style adjustments and beautifications. If by chance you also like them, that would be great~
 
 ## Dart
 
