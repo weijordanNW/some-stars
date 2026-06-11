@@ -10,25 +10,38 @@
 
 ## Table of Contents
 
+*   [Go](#go)
+*   [PowerShell](#powershell)
 *   [Python](#python)
-*   [Shell](#shell)
 *   [TypeScript](#typescript)
+*   [miscellaneous](#miscellaneous)
+*   [Shell](#shell)
 *   [JavaScript](#javascript)
 *   [Mermaid](#mermaid)
-*   [miscellaneous](#miscellaneous)
 *   [Rust](#rust)
 *   [Vue](#vue)
 *   [C#](#c)
 *   [HTML](#html)
-*   [Go](#go)
 *   [Stylus](#stylus)
 *   [Java](#java)
 *   [CSS](#css)
 *   [Dart](#dart)
 
+## Go
+
+*   [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) - DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
+
+*   [linux-do/override](https://github.com/linux-do/override) - 啥也不是
+
+## PowerShell
+
+*   [angusdevgo/OC-Codex](https://github.com/angusdevgo/OC-Codex) - O-C 是一个 Windows 桌面工具，方便开发者在 Codex 官方 ChatGPT 模式 和 CPAMC/API 模式之间切换配置，并自动同步本地聊天记录的 provider 元数据，让你在切换额度来源后仍然能继续看到原来的项目和对话。
+
 ## Python
 
-*   [ningzimu/codex-ppt-skill](https://github.com/ningzimu/codex-ppt-skill) - Codex skill for generating image-based PowerPoint decks with gpt-image-2
+*   [fantasticjoe/cpa-warden](https://github.com/fantasticjoe/cpa-warden) - Interactive CLI for CPA auth inventory scanning, usage probing, and account maintenance in known CPA management environments.
+
+*   [ningzimu/codex-ppt-skill](https://github.com/ningzimu/codex-ppt-skill) - GPT-Image-2 PPT Generator Skill for Creating Image-Based PowerPoint Presentations in Codex and Other Skill-Compatible Agents
 
 *   [yukkcat/gemini-business2api](https://github.com/yukkcat/gemini-business2api) - OpenAI-compatible API for Gemini Business with multi-account load balancing and multimodal capabilities (image/video generation, file parsing) | 将 Gemini Business 转为 OpenAI 兼容接口，支持多账户负载均衡及多模态能力（图像生成、视频生成、解析文件）
 
@@ -58,15 +71,13 @@
 
 *   [dreammis/social-auto-upload](https://github.com/dreammis/social-auto-upload) - 自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili
 
-*   [weijordanNW/webssh](https://github.com/weijordanNW/webssh) -
-
-## Shell
-
-*   [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) - 小雅Alist的相关周边
-
-*   [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory.
-
 ## TypeScript
+
+*   [seakee/CPA-Manager-Plus](https://github.com/seakee/CPA-Manager-Plus) - Management panel for CLI Proxy API with a Docker-ready Manager Server, SQLite usage analytics, request monitoring, model pricing, quota views, and Codex inspection.
+
+*   [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
+
+*   [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Claude Code / OpenClaw / Codex / Cursor / OpenCode / Qwen / Copilot / Hermes / Kimi & 17+ CLIs.
 
 *   [dreamhunter2333/cloudflare\_temp\_email](https://github.com/dreamhunter2333/cloudflare_temp_email) - CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot
 
@@ -112,7 +123,33 @@
 
 *   [XPoet/picx](https://github.com/XPoet/picx) - 🏞️ PicX 是一款基于 GitHub API 开发的图床工具，提供图片上传托管、生成图片链接和常用图片工具箱服务。
 
-*   [weijordanNW/my-paper-ai](https://github.com/weijordanNW/my-paper-ai) -
+## miscellaneous
+
+*   [sky22333/tools](https://github.com/sky22333/tools) - 简约导航站 - 存放一些我的常用工具
+
+*   [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  离谱的英语学习指南/英语学习教程/英语学习/学英语
+
+*   [zhiningo/drawio-flowchart-skill](https://github.com/zhiningo/drawio-flowchart-skill) - 生成高质量 draw.io 流程图，布局整齐、层次分明、风格统一
+
+*   [axtonliu/axton-obsidian-visual-skills](https://github.com/axtonliu/axton-obsidian-visual-skills) - Visual Skills Pack for Obsidian: generate Canvas, Excalidraw, and Mermaid diagrams from text with Claude Code
+
+*   [viviannnl/ai-workflows](https://github.com/viviannnl/ai-workflows) - Public AI workflow guides and operating patterns
+
+*   [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
+
+*   [SamToki/Sam-Toki-Mouse-Cursors](https://github.com/SamToki/Sam-Toki-Mouse-Cursors) - 原创极简风格鼠标指针，适用于 Windows 系统。 ／ Original mouse cursors (pointers) for Windows, with minimalistic design. ／ 孤独摇滚 Bocchi the Rock 原神 Genshin 沉默魔女 Silent Witch
+
+*   [gaboolic/vercel-reverse-fast](https://github.com/gaboolic/vercel-reverse-fast) - vercel加速OpenAI/ChatGPT
+
+*   [rcy1314/some-stars](https://github.com/rcy1314/some-stars) - 我的star列表，每天自动更新
+
+*   [weijordanNW/uptime-kuma](https://github.com/weijordanNW/uptime-kuma) - A fancy self-hosted monitoring tool 服务监控
+
+## Shell
+
+*   [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) - 小雅Alist的相关周边
+
+*   [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory.
 
 ## JavaScript
 
@@ -170,34 +207,6 @@
 
 *   [Agents365-ai/mermaid-skill](https://github.com/Agents365-ai/mermaid-skill) - Mermaid diagrams (.mmd) from natural language with validation loop. 11+ types, multi-backend (mmdc / Kroki), PNG/SVG/PDF, multi-agent.
 
-## miscellaneous
-
-*   [zhiningo/drawio-flowchart-skill](https://github.com/zhiningo/drawio-flowchart-skill) - 生成高质量 draw.io 流程图，布局整齐、层次分明、风格统一
-
-*   [axtonliu/axton-obsidian-visual-skills](https://github.com/axtonliu/axton-obsidian-visual-skills) - Visual Skills Pack for Obsidian: generate Canvas, Excalidraw, and Mermaid diagrams from text with Claude Code
-
-*   [viviannnl/ai-workflows](https://github.com/viviannnl/ai-workflows) - Public AI workflow guides and operating patterns
-
-*   [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
-
-*   [SamToki/Sam-Toki-Mouse-Cursors](https://github.com/SamToki/Sam-Toki-Mouse-Cursors) - 原创极简风格鼠标指针，适用于 Windows 系统。 ／ Original mouse cursors (pointers) for Windows, with minimalistic design. ／ 孤独摇滚 Bocchi the Rock 原神 Genshin 沉默魔女 Silent Witch
-
-*   [gaboolic/vercel-reverse-fast](https://github.com/gaboolic/vercel-reverse-fast) - vercel加速OpenAI/ChatGPT
-
-*   [rcy1314/some-stars](https://github.com/rcy1314/some-stars) - 我的star列表，每天自动更新
-
-*   [weijordanNW/uptime-kuma](https://github.com/weijordanNW/uptime-kuma) - A fancy self-hosted monitoring tool 服务监控
-
-*   [weijordanNW/pic-hosting-cluster](https://github.com/weijordanNW/pic-hosting-cluster) - 图库集群方案
-
-*   [weijordanNW/GoFilm](https://github.com/weijordanNW/GoFilm) - 多播放源自动采集在线影视网站 golang vue
-
-*   [weijordanNW/git-ai-tool](https://github.com/weijordanNW/git-ai-tool) - 一个使用ai自动生成 coomin  和周报的 工具
-
-*   [weijordanNW/weijordan-imagehub-repo](https://github.com/weijordanNW/weijordan-imagehub-repo) - imagehub 图库
-
-*   [wozulong/fuclaude](https://github.com/wozulong/fuclaude) - 法克劳德，啥也不是。
-
 ## Rust
 
 *   [Achilng/floral-notepaper](https://github.com/Achilng/floral-notepaper) - 花笺，轻量优雅的跨平台桌面便签工具，支持 Markdown 编辑与预览
@@ -214,8 +223,6 @@
 
 *   [Kuingsmile/PicList](https://github.com/Kuingsmile/PicList) - An image upload and manage tool, base on PicGo
 
-*   [weijordanNW/music-player](https://github.com/weijordanNW/music-player) -
-
 ## C\#
 
 *   [PLFJY/ContextMenuMgr](https://github.com/PLFJY/ContextMenuMgr) - A Windows context menu management tool with new menu monitoring
@@ -231,10 +238,6 @@
 *   [dontpanic92/embedded-netease-music-player](https://github.com/dontpanic92/embedded-netease-music-player) - 网易云音乐外链播放器 - Embed a netease music player into your web page
 
 *   [xiaowansm5/Onlinemusic](https://github.com/xiaowansm5/Onlinemusic) - 在线音乐播放器
-
-## Go
-
-*   [linux-do/override](https://github.com/linux-do/override) - 啥也不是
 
 ## Stylus
 
