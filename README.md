@@ -10,8 +10,8 @@
 
 ## Table of Contents
 
-*   [Rust](#rust)
 *   [JavaScript](#javascript)
+*   [Rust](#rust)
 *   [TypeScript](#typescript)
 *   [Go](#go)
 *   [PowerShell](#powershell)
@@ -27,13 +27,9 @@
 *   [CSS](#css)
 *   [Dart](#dart)
 
-## Rust
-
-*   [jlcodes99/cockpit-tools](https://github.com/jlcodes99/cockpit-tools) -  🚀 通用 AI IDE 账号管理工具：支持 Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy，多账号切换、配额监控、自动唤醒与多开实例管理。 🚀 Universal AI IDE account manager for Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy, with multi-account switching, quota monitoring, wake-up automation, and multi-insta
-
-*   [Achilng/floral-notepaper](https://github.com/Achilng/floral-notepaper) - 花笺，轻量优雅的跨平台桌面便签工具，支持 Markdown 编辑与预览
-
 ## JavaScript
+
+*   [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
 
 *   [liujuntao123/smart-draw](https://github.com/liujuntao123/smart-draw) - Draw any professional and beautiful diagram you can imagine in the simplest way
 
@@ -84,6 +80,12 @@
 *   [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.
 
 *   [YangguangZhou/some-stars](https://github.com/YangguangZhou/some-stars) - 我的star列表，每天自动更新
+
+## Rust
+
+*   [jlcodes99/cockpit-tools](https://github.com/jlcodes99/cockpit-tools) -  🚀 通用 AI IDE 账号管理工具：支持 Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy，多账号切换、配额监控、自动唤醒与多开实例管理。 🚀 Universal AI IDE account manager for Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy, with multi-account switching, quota monitoring, wake-up automation, and multi-insta
+
+*   [Achilng/floral-notepaper](https://github.com/Achilng/floral-notepaper) - 花笺，轻量优雅的跨平台桌面便签工具，支持 Markdown 编辑与预览
 
 ## TypeScript
 
@@ -198,8 +200,6 @@
 *   [SamToki/Sam-Toki-Mouse-Cursors](https://github.com/SamToki/Sam-Toki-Mouse-Cursors) - 原创极简风格鼠标指针，适用于 Windows 系统。 ／ Original mouse cursors (pointers) for Windows, with minimalistic design. ／ 孤独摇滚 Bocchi the Rock 原神 Genshin 沉默魔女 Silent Witch
 
 *   [gaboolic/vercel-reverse-fast](https://github.com/gaboolic/vercel-reverse-fast) - vercel加速OpenAI/ChatGPT
-
-*   [rcy1314/some-stars](https://github.com/rcy1314/some-stars) - 我的star列表，每天自动更新
 
 ## Shell
 
