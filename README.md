@@ -10,12 +10,12 @@
 
 ## Table of Contents
 
+*   [Python](#python)
 *   [JavaScript](#javascript)
 *   [Rust](#rust)
 *   [TypeScript](#typescript)
 *   [Go](#go)
 *   [PowerShell](#powershell)
-*   [Python](#python)
 *   [miscellaneous](#miscellaneous)
 *   [Shell](#shell)
 *   [Mermaid](#mermaid)
@@ -26,6 +26,46 @@
 *   [Java](#java)
 *   [CSS](#css)
 *   [Dart](#dart)
+
+## Python
+
+*   [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
+
+*   [liaohch3/claude-tap](https://github.com/liaohch3/claude-tap) - Intercept and inspect Coding Agent API traffic from Claude Code, Codex CLI, Gemini CLI, Cursor CLI, OpenCode, Kimi/Kimi Code, Pi, and Hermes in a local trace viewer.
+
+*   [fantasticjoe/cpa-warden](https://github.com/fantasticjoe/cpa-warden) - Interactive CLI for CPA auth inventory scanning, usage probing, and account maintenance in known CPA management environments.
+
+*   [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
+
+*   [ningzimu/codex-ppt-skill](https://github.com/ningzimu/codex-ppt-skill) - GPT-Image-2 PPT Generator Skill for Creating Image-Based PowerPoint Presentations in Codex and Other Skill-Compatible Agents
+
+*   [yukkcat/gemini-business2api](https://github.com/yukkcat/gemini-business2api) - OpenAI-compatible API for Gemini Business with multi-account load balancing and multimodal capabilities (image/video generation, file parsing) | 将 Gemini Business 转为 OpenAI 兼容接口，支持多账户负载均衡及多模态能力（图像生成、视频生成、解析文件）
+
+*   [Agents365-ai/excalidraw-skill](https://github.com/Agents365-ai/excalidraw-skill) - Hand-drawn Excalidraw diagrams from natural language. 5 patterns, 8-color semantic palette, Kroki API or local CLI. PNG/SVG, multi-agent.
+
+*   [Agents365-ai/drawio-skill](https://github.com/Agents365-ai/drawio-skill) - Generate draw.io diagrams from natural language — 6 presets, vision self-check + up to 5-round refinement, codebase-to-diagram, 10,000+ official shapes & 321 AI/LLM brand logos. Exports PNG/SVG/PDF/JPG.
+
+*   [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
+
+*   [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
+
+*   [bleachbit/bleachbit](https://github.com/bleachbit/bleachbit) - BleachBit system cleaner for Windows and Linux
+
+*   [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) - 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
+
+*   [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) - 66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
+
+*   [wzdnzd/aggregator](https://github.com/wzdnzd/aggregator) - One-stop Proxies Crawling and Aggregation Platform
+
+*   [jackvale/rectg](https://github.com/jackvale/rectg) - Telegram 中文频道、群组与机器人精选索引，结合自动化抓取与人工整理，支持在线搜索与分类浏览。
+
+*   [EXP-Tools/steam-discount](https://github.com/EXP-Tools/steam-discount) - steam 特惠游戏榜单（自动刷新）
+
+*   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
+
+*   [Batman0506/wx-wchaty-robot](https://github.com/Batman0506/wx-wchaty-robot) - 一个可以转发消息的微信机器人，可以自定义转发的群，也可以二开做关键字校验，node.js服务
+
+*   [dreammis/social-auto-upload](https://github.com/dreammis/social-auto-upload) - 自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili
 
 ## JavaScript
 
@@ -76,10 +116,6 @@
 *   [rcy1314/noisework](https://github.com/rcy1314/noisework) - #主页 #引导页 ⭐️多模式个人主页展示页，🌈带pwa模式，多组件效果，可随时切换的引导页🎉 添加右键弹出菜单，RSS动态文章卡片，视频播放📫ADS广告位
 
 *   [rootlexme/hexo-ai-excerpt](https://github.com/rootlexme/hexo-ai-excerpt) - hexo使用ai为您的文章生成摘要
-
-*   [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.
-
-*   [YangguangZhou/some-stars](https://github.com/YangguangZhou/some-stars) - 我的star列表，每天自动更新
 
 ## Rust
 
@@ -146,42 +182,6 @@
 ## PowerShell
 
 *   [angusdevgo/OC-Codex](https://github.com/angusdevgo/OC-Codex) - O-C 是一个 Windows 桌面工具，方便开发者在 Codex 官方 ChatGPT 模式 和 CPAMC/API 模式之间切换配置，并自动同步本地聊天记录的 provider 元数据，让你在切换额度来源后仍然能继续看到原来的项目和对话。
-
-## Python
-
-*   [fantasticjoe/cpa-warden](https://github.com/fantasticjoe/cpa-warden) - Interactive CLI for CPA auth inventory scanning, usage probing, and account maintenance in known CPA management environments.
-
-*   [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
-
-*   [ningzimu/codex-ppt-skill](https://github.com/ningzimu/codex-ppt-skill) - GPT-Image-2 PPT Generator Skill for Creating Image-Based PowerPoint Presentations in Codex and Other Skill-Compatible Agents
-
-*   [yukkcat/gemini-business2api](https://github.com/yukkcat/gemini-business2api) - OpenAI-compatible API for Gemini Business with multi-account load balancing and multimodal capabilities (image/video generation, file parsing) | 将 Gemini Business 转为 OpenAI 兼容接口，支持多账户负载均衡及多模态能力（图像生成、视频生成、解析文件）
-
-*   [Agents365-ai/excalidraw-skill](https://github.com/Agents365-ai/excalidraw-skill) - Hand-drawn Excalidraw diagrams from natural language. 5 patterns, 8-color semantic palette, Kroki API or local CLI. PNG/SVG, multi-agent.
-
-*   [Agents365-ai/drawio-skill](https://github.com/Agents365-ai/drawio-skill) - Generate draw.io diagrams from natural language — 6 presets, vision self-check + up to 5-round refinement, codebase-to-diagram, 10,000+ official shapes & 321 AI/LLM brand logos. Exports PNG/SVG/PDF/JPG.
-
-*   [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
-
-*   [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
-
-*   [bleachbit/bleachbit](https://github.com/bleachbit/bleachbit) - BleachBit system cleaner for Windows and Linux
-
-*   [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) - 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
-
-*   [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) - 66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
-
-*   [wzdnzd/aggregator](https://github.com/wzdnzd/aggregator) - One-stop Proxies Crawling and Aggregation Platform
-
-*   [jackvale/rectg](https://github.com/jackvale/rectg) - Telegram 中文频道、群组与机器人精选索引，结合自动化抓取与人工整理，支持在线搜索与分类浏览。
-
-*   [EXP-Tools/steam-discount](https://github.com/EXP-Tools/steam-discount) - steam 特惠游戏榜单（自动刷新）
-
-*   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
-
-*   [Batman0506/wx-wchaty-robot](https://github.com/Batman0506/wx-wchaty-robot) - 一个可以转发消息的微信机器人，可以自定义转发的群，也可以二开做关键字校验，node.js服务
-
-*   [dreammis/social-auto-upload](https://github.com/dreammis/social-auto-upload) - 自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili
 
 ## miscellaneous
 
