@@ -10,13 +10,13 @@
 
 ## Table of Contents
 
+*   [miscellaneous](#miscellaneous)
 *   [Python](#python)
 *   [JavaScript](#javascript)
 *   [Rust](#rust)
 *   [TypeScript](#typescript)
 *   [Go](#go)
 *   [PowerShell](#powershell)
-*   [miscellaneous](#miscellaneous)
 *   [Shell](#shell)
 *   [Mermaid](#mermaid)
 *   [Vue](#vue)
@@ -27,7 +27,29 @@
 *   [CSS](#css)
 *   [Dart](#dart)
 
+## miscellaneous
+
+*   [zai-org/GLM-5](https://github.com/zai-org/GLM-5) - GLM-5: From Vibe Coding to Agentic Engineering
+
+*   [sky22333/tools](https://github.com/sky22333/tools) - 简约导航站 - 存放一些我的常用工具
+
+*   [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  离谱的英语学习指南/英语学习教程/英语学习/学英语
+
+*   [zhiningo/drawio-flowchart-skill](https://github.com/zhiningo/drawio-flowchart-skill) - 生成高质量 draw.io 流程图，布局整齐、层次分明、风格统一
+
+*   [axtonliu/axton-obsidian-visual-skills](https://github.com/axtonliu/axton-obsidian-visual-skills) - Visual Skills Pack for Obsidian: generate Canvas, Excalidraw, and Mermaid diagrams from text with Claude Code
+
+*   [viviannnl/ai-workflows](https://github.com/viviannnl/ai-workflows) - Public AI workflow guides and operating patterns
+
+*   [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
+
+*   [SamToki/Sam-Toki-Mouse-Cursors](https://github.com/SamToki/Sam-Toki-Mouse-Cursors) - 原创极简风格鼠标指针，适用于 Windows 系统。 ／ Original mouse cursors (pointers) for Windows, with minimalistic design. ／ 孤独摇滚 Bocchi the Rock 原神 Genshin 沉默魔女 Silent Witch
+
+*   [gaboolic/vercel-reverse-fast](https://github.com/gaboolic/vercel-reverse-fast) - vercel加速OpenAI/ChatGPT
+
 ## Python
+
+*   [chopratejas/headroom](https://github.com/chopratejas/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
 
 *   [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 
@@ -115,8 +137,6 @@
 
 *   [rcy1314/noisework](https://github.com/rcy1314/noisework) - #主页 #引导页 ⭐️多模式个人主页展示页，🌈带pwa模式，多组件效果，可随时切换的引导页🎉 添加右键弹出菜单，RSS动态文章卡片，视频播放📫ADS广告位
 
-*   [rootlexme/hexo-ai-excerpt](https://github.com/rootlexme/hexo-ai-excerpt) - hexo使用ai为您的文章生成摘要
-
 ## Rust
 
 *   [jlcodes99/cockpit-tools](https://github.com/jlcodes99/cockpit-tools) -  🚀 通用 AI IDE 账号管理工具：支持 Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy，多账号切换、配额监控、自动唤醒与多开实例管理。 🚀 Universal AI IDE account manager for Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy, with multi-account switching, quota monitoring, wake-up automation, and multi-insta
@@ -183,24 +203,6 @@
 
 *   [angusdevgo/OC-Codex](https://github.com/angusdevgo/OC-Codex) - O-C 是一个 Windows 桌面工具，方便开发者在 Codex 官方 ChatGPT 模式 和 CPAMC/API 模式之间切换配置，并自动同步本地聊天记录的 provider 元数据，让你在切换额度来源后仍然能继续看到原来的项目和对话。
 
-## miscellaneous
-
-*   [sky22333/tools](https://github.com/sky22333/tools) - 简约导航站 - 存放一些我的常用工具
-
-*   [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  离谱的英语学习指南/英语学习教程/英语学习/学英语
-
-*   [zhiningo/drawio-flowchart-skill](https://github.com/zhiningo/drawio-flowchart-skill) - 生成高质量 draw.io 流程图，布局整齐、层次分明、风格统一
-
-*   [axtonliu/axton-obsidian-visual-skills](https://github.com/axtonliu/axton-obsidian-visual-skills) - Visual Skills Pack for Obsidian: generate Canvas, Excalidraw, and Mermaid diagrams from text with Claude Code
-
-*   [viviannnl/ai-workflows](https://github.com/viviannnl/ai-workflows) - Public AI workflow guides and operating patterns
-
-*   [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
-
-*   [SamToki/Sam-Toki-Mouse-Cursors](https://github.com/SamToki/Sam-Toki-Mouse-Cursors) - 原创极简风格鼠标指针，适用于 Windows 系统。 ／ Original mouse cursors (pointers) for Windows, with minimalistic design. ／ 孤独摇滚 Bocchi the Rock 原神 Genshin 沉默魔女 Silent Witch
-
-*   [gaboolic/vercel-reverse-fast](https://github.com/gaboolic/vercel-reverse-fast) - vercel加速OpenAI/ChatGPT
-
 ## Shell
 
 *   [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) - 小雅Alist的相关周边
@@ -256,5 +258,3 @@
 ## Dart
 
 *   [xlist-io/xlist](https://github.com/xlist-io/xlist) - An all-in-one Alist client. / 一款多功能 Alist 客户端。
-
-*   [jing332/AListFlutter](https://github.com/jing332/AListFlutter) - AList 安卓版本，APK安装即用，无需Root或Termux。
